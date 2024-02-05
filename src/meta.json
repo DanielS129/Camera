@@ -130,10 +130,10 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App Dev",
             "settings": {
                 "teamId": null,
-                "appName": "Daniel's Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -161,12 +161,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -182,7 +177,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Daniel's Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -210,12 +205,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
