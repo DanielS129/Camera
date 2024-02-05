@@ -1,4 +1,5 @@
 {
+    "id": "ef468267-980e-49cb-8b67-4dc6a1ca789a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -615,7 +616,6 @@
             "name": "Camera"
         }
     ],
-    "id": "ef468267-980e-49cb-8b67-4dc6a1ca789a",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }

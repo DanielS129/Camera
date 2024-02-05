@@ -1,4 +1,5 @@
 {
+    "id": "4d4db7c4-e7e4-4e30-a2dc-7ad5231b6892",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -366,7 +367,6 @@
             "name": "Video1"
         }
     ],
-    "id": "4d4db7c4-e7e4-4e30-a2dc-7ad5231b6892",
     "thunkableVersion": 443,
     "name": "Video Screen"
 }
