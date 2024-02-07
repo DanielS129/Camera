@@ -58,6 +58,39 @@
     },
     "children": [
         {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": false,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 267,
+                "Y": 259,
+                "RelativeX": 267,
+                "RelativeY": 259,
+                "ResizeMode": "STRETCH",
+                "ParentId": "ef468267-980e-49cb-8b67-4dc6a1ca789a",
+                "position": "absolute",
+                "edgeOffsets": 259,
+                "style": {
+                    "position": "absolute",
+                    "left": "63.6%",
+                    "top": "32.02305097451274%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "30b4ef31-43d9-4f2c-8b75-4a6616bbdf07",
+            "thunkableVersion": 444,
+            "name": "Switch1"
+        },
+        {
             "type": "Image",
             "translatedName": "Image",
             "properties": {
@@ -571,8 +604,8 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
-                "Height": 47,
-                "Width": 259,
+                "Height": 49,
+                "Width": 194,
                 "Visible": true,
                 "X": 60,
                 "Y": 244,
