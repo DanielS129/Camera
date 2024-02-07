@@ -21,8 +21,8 @@
                     "createdAt": "2024-01-30T03:37:03.016Z",
                     "updatedAt": "2024-01-30T03:37:03.016Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659e45474927473c12d25461/projects/65b8682bdee5520c50b25627/assets/65b86edebf29bab43ada7fde?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T075957Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=983674389af7fc90ca935fa8b9d17996f0d4811e8bc1540d20406761c269e3f5bb2e91511dabc22128553585f1ec6e787f020591d783eb6e5adc0976762eadead0685ed4d770ba1a62918b0e16fd970a2c47ddb38f6c9c1cadd0f7775e99f947ed66dc47938147873912c115de8b923be57f44978f5e57fe6b6aec41030ff0bde7d413cbcd66819966b35cffa540e8c946ad4277faa4b247b7d6826d28b6c19f5ba4f0f972a1c47873b7914b5418cf38176f8911a8c1e7b078e9fb2a86d734b58e185ec7db7911c08011d8fc2088e2017deafe3643ccf0daa7fbcd5c47c45dbd4be06a34c9c46b9402a872b3e4a938abd7f0e62dec37aec761b1631f197c48c1",
-                    "signedUrlExpirationTime": 1707292797450
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659e45474927473c12d25461/projects/65b8682bdee5520c50b25627/assets/65b86edebf29bab43ada7fde?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240207%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240207T033813Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=154b7415150d9ee108977368811577901f32c39a414cbbd955087ca7c736866d050767b573f69ddd9b662a9bda8c8b8ccfe10c5bf6b7af35e3c5dd277709ff3bf68362a19d2d53892e107a85848a0d92ad3a4ad2f358516c3a43947869b68b05fa3e23a8a7ff1c56ab89da05b9aea8b698bbb8e9a27dcfcacbe9afbcb7071bacd249dbd19f8c3fa5986abc0b9c9760952d9549adb7d09c28a202cdb50340b53fdf74c8761ed1e989f060894c2a61bcab959bbadcb5c25d2c1bd46e33fd72a3289e8ded4f850529217b4dc94d6e551b8d89f13ca20d689de62381fbb478a94b9b65989c1e9687a693c1d46ae778f768a4d1e1c454ea1283f41d689a2e7831a5d5",
+                    "signedUrlExpirationTime": 1707449893499
                 }
             },
             "backendUpgradeVersion": 24,
@@ -47,6 +47,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -71,6 +72,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -81,6 +83,7 @@
                         "ios": []
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 }
@@ -130,7 +133,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App Dev",
+            "projectName": "Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -161,7 +164,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -205,7 +210,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
